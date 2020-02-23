@@ -41,7 +41,7 @@ You can send me an encrypted e-mail using PGP at caitlin.ostroff@wsj.com.
 Encryption only protects the message itself, not the subject of the e-mail addresses of the people involved.
 
 My key can be found here:
-
+https://github.com/ceostroff/Contact/blob/master/PGP.txt
 
 ## Post
 
