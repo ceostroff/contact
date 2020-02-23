@@ -33,6 +33,7 @@ To use SecureDrop, you should follow these steps. For the best identity protecti
 Download and install the Tor browser here: https://www.torproject.org
 
 Open the browser, wait for a connection, and then copy and paste this URL into the address bar: p7exvfz35jydt25f.onion<br>
+
 Once you’ve done this, the system will give you further instructions and a code name, which you should remember or write on a piece of paper that you keep in a safe place. The Journal will only be able to contact you within SecureDrop via this anonymous code name.
 
 ## E-mail
