@@ -3,8 +3,8 @@
 I am a London-based reporter for the Wall Street Journal. Get in touch if you have any story ideas or tips for us to follow up on.
 
 ## Basic Details
-Email: caitlin.ostroff@wsj.com
-Mobile: +44(0)7917 315917
+Email: caitlin.ostroff@wsj.com<br>
+Mobile: +44(0)7917 315917<br>
 Office: +44(0)2078 429212
 
 If you are worried about authorities or the company you work for reading your messages, you should take precautions. Technology solutions are imperfect, but here are a few tactics for making contact:
