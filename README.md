@@ -45,9 +45,9 @@ https://github.com/ceostroff/Contact/blob/master/PGP.txt
 
 ## Post
 
-Caitlin Ostroff
-The Wall Street Journal, 7th Floor
-1 London Bridge Street, London SE1 9GF
+Caitlin Ostroff<br>
+The Wall Street Journal, 7th Floor<br>
+1 London Bridge Street, London SE1 9GF<br>
 United Kingdom
 
 Don't put your return address on the outside of the envelope.
