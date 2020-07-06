@@ -17,7 +17,7 @@ You can add my mobile phone number to your contacts and I'll pop up as available
 
 Signal will keep a record of when you set up an account and what phone number you've used, which can be sensitive information.
 
-One shortcoming of Signal is that it's difficult to use without giving up your actual cell phone number. If you have an Android, you can find instructions on how to hide your true cell phone number here using Google Voice: https://theintercept.com/2017/09/28/signal-tutorial-second-phone-number/. Use can also create a quick e-mail address that doesn't include your name anywhere through a service like ProtonMail: https://protonmail.com/. I can be reached there under my username, @ceostroff. 
+One shortcoming of Signal is that it's difficult to use without giving up your actual cell phone number. If you have an Android, you can find instructions on how to hide your true cell phone number here using Google Voice: https://theintercept.com/2017/09/28/signal-tutorial-second-phone-number/. You can also create a quick e-mail address that doesn't include your name anywhere through a service like ProtonMail: https://protonmail.com/. I can be reached there under my username, @ceostroff. 
 
 Another app that allows for a similar arrangement is WickrMe, which has a few security features that some people prefer. Wickr: https://www.wickr.com/
 
