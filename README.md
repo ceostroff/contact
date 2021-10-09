@@ -9,7 +9,7 @@ Office: +44(0)2078 429212
 
 If you are worried about authorities or the company you work for reading your messages, you should take precautions. Technology solutions are imperfect, but here are a few tactics for making contact:
 
-## Chat Messangers
+## Chat Messagers
 
 Signal is the gold-standard for encrypted messaging and phone calls. You can download it here: https://whispersystems.org/
 
