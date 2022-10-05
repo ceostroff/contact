@@ -12,7 +12,7 @@ If you are worried about authorities or the company you work for reading your me
 
 Signal is the gold-standard for encrypted messaging and phone calls. You can download it here: https://whispersystems.org/
 
-You can add my mobile phone number to your contacts and I'll pop up as available. If you don't want to save my number, you can also send message through the system by typing my number into the search box and it will give you the option to click "New conversation with +447917315917."
+You can add my mobile phone number to your contacts and I'll pop up as available. If you don't want to save my number, you can also send message through the system by typing my number into the search box and it will give you the option to click "New conversation with +447917315917".
 
 Signal will keep a record of when you set up an account and what phone number you've used, which can be sensitive information.
 
