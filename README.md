@@ -32,12 +32,14 @@ Open the browser, wait for a connection, and then copy and paste this URL into t
 Once you’ve done this, the system will give you further instructions and a code name, which you should remember or write on a piece of paper that you keep in a safe place. The Journal will only be able to contact you within SecureDrop via this anonymous code name.
 
 ## E-mail
-You can send me an encrypted e-mail using PGP at caitlin.ostroff@wsj.com. I recommend ProtonMail: https://protonmail.com/. I can be reached there at ceostroff@protonmail.com. 
-
-Encryption only protects the message itself, not the subject or the e-mail addresses of the people involved.
+You can send me an encrypted e-mail using PGP at caitlin.ostroff@wsj.com. Encryption only protects the message itself, not the subject or the e-mail addresses of the people involved.
 
 My key can be found here:
 https://github.com/ceostroff/Contact/blob/master/PGP.txt
+
+ProtonMail will also automatically encrypt emails: https://protonmail.com/. I can be reached there at ceostroff@protonmail.com. 
+
+More on this here: https://proton.me/support/proton-mail-encryption-explained
 
 ## Post
 
