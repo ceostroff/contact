@@ -4,7 +4,7 @@ I am a New York-based reporter for the Wall Street Journal. Get in touch if you 
 
 ## Basic Details
 Email: caitlin.ostroff@wsj.com<br>
-Mobile: +1 917 581 0292<br>
+Mobile: +19175810292<br>
 
 If you are worried about authorities or the company you work for reading your messages, you should take precautions. Technology solutions are imperfect, but here are a few tactics for making contact:
 
