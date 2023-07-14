@@ -27,9 +27,11 @@ To use SecureDrop, you should follow these steps. For the best identity protecti
 
 Download and install the Tor browser here: https://www.torproject.org
 
-Open the browser, wait for a connection, and then copy and paste this URL into the address bar: p7exvfz35jydt25f.onion<br>
+Open the browser, wait for a connection, and then copy and paste this URL into the address bar: bi5wxtllt3jkz4bcvdmmw4euxjiteyo7xtkwp7rtxqlyyblsb2um7nyd.onion<br>
 
 Once you’ve done this, the system will give you further instructions and a code name, which you should remember or write on a piece of paper that you keep in a safe place. The Journal will only be able to contact you within SecureDrop via this anonymous code name.
+
+More info can also be found <a href="https://www.wsj.com/tips">here</a>. 
 
 ## E-mail
 You can send me an encrypted e-mail using PGP at caitlin.ostroff@wsj.com. Encryption only protects the message itself, not the subject or the e-mail addresses of the people involved.
