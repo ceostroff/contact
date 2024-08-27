@@ -4,7 +4,7 @@ I am a New York-based reporter for the Wall Street Journal. Get in touch if you 
 
 ## Basic Details
 Email: caitlin.ostroff@wsj.com<br>
-Mobile: +19175810292<br>
+Signal: ceostroff.85
 
 If you are worried about authorities or the company you work for reading your messages, you should take precautions. Technology solutions are imperfect, but here are a few tactics for making contact:
 
@@ -12,7 +12,7 @@ If you are worried about authorities or the company you work for reading your me
 
 Signal is the gold-standard for encrypted messaging and phone calls. You can download it here: https://whispersystems.org/
 
-You can add my mobile phone number to your contacts and I'll pop up as available. If you don't want to save my number, you can also send message through the system by typing my number into the search box and it will give you the option to click "New conversation with +19175810292". You can also save my contact under a fake name. 
+You can create a new message and search my username, ceostroff.85, to contact me.  
 
 Signal will keep a record of when you set up an account and what phone number you've used, which can be sensitive information.
 
