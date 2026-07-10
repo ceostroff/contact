@@ -46,7 +46,7 @@ More on this here: https://proton.me/support/proton-mail-encryption-explained
 ## Post
 
 Caitlin Ostroff<br>
-The Wall Street Journal, 5th Floor<br>
+The Wall Street Journal, 6th Floor<br>
 1211 Avenue of the Americas<br>
 New York, NY 10036
 
